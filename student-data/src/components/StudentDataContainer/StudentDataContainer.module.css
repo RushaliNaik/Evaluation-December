@@ -1,0 +1,24 @@
+.StudentDataContainer {
+    font-family: sans-serif;
+    text-align: center;
+    border: 1px solid gray;
+    display: block;
+    width: 50%;
+    max-width: 400px;
+    min-width: 200px;
+    margin-bottom: 20px;
+    padding: 15px;
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.Name {
+    color: goldenrod;
+}
+
+.Age {
+    color: steelblue;
+}
+
+.Course {
+    color: maroon;
+}
