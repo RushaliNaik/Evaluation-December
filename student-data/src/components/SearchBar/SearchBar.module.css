@@ -1,0 +1,10 @@
+.SearchBar {
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    width: 50%;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    max-width: 400px;
+    min-width: 200px;
+}
